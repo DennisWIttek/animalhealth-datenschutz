@@ -113,7 +113,7 @@ Die App ist nicht für Kinder unter 13 Jahren bestimmt.
 Diese Datenschutzerklärung kann aktualisiert werden.
 Ihre Zustimmung wird in der App gespeichert und bei Änderungen erneut abgefragt.
 Aktuelle Version online verfügbar unter:
-➡️ https://github.com/DennisWIttek/animalhealth-datenschutz/blob/main/DATENSCHUTZ.md
+➡️ https://github.com/DennisWittek/animalhealth-datenschutz/blob/main/DATENSCHUTZ.md
 
 13. Kontakt
 Fragen zur Verarbeitung?
