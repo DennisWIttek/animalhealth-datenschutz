@@ -3,7 +3,7 @@ Version: 2026‑02‑08
 Gilt für: Android‑App „AnimalHealth“
 Verantwortlicher:
 Dennis Wittek
-E-Mail: DennisW_Coding@gmx.de
+E-Mail: dw_geraeteverleih_manufaktur@gmx.de
 
 1. Einleitung
 Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst.
@@ -12,7 +12,7 @@ Diese Datenschutzerklärung erläutert, welche Daten in der App AnimalHealth ver
 2. Verantwortlicher
 Name: Dennis Wittek
 Projekt: AnimalHealth
-E-Mail: DennisW_Coding@gmx.de
+E-Mail: dw_geraeteverleih_manufaktur@gmx.de
 
 3. Welche Daten verarbeitet die App?
 3.1 Daten, die Sie selbst eingeben
@@ -104,7 +104,7 @@ Widerspruch
 Datenübertragbarkeit
 Widerruf Ihrer Einwilligung
 
-Kontakt über: DennisW_Coding@gmx.de
+Kontakt über: dw_geraeteverleih_manufaktur@gmx.de
 
 11. Minderjährige
 Die App ist nicht für Kinder unter 13 Jahren bestimmt.
@@ -118,4 +118,4 @@ Aktuelle Version online verfügbar unter:
 13. Kontakt
 Fragen zur Verarbeitung?
 Dann schreiben Sie an:
-DennisW_Coding@gmx.de
+dw_geraeteverleih_manufaktur@gmx.de
