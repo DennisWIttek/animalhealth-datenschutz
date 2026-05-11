@@ -2,7 +2,7 @@ Terms of Service – AnimalHealth
 Version: 2026‑02‑08
 Gilt für: Android‑App „AnimalHealth“
 Entwickler: Dennis Wittek
-Kontakt: DennisW_Coding@gmx.de
+Kontakt: dw_geraeteverleih_manufaktur@gmx.de
 
 1. Akzeptanz der Nutzungsbedingungen
 Durch die Nutzung der App AnimalHealth erklären Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie nicht zustimmen, dürfen Sie die App nicht verwenden.
@@ -39,7 +39,7 @@ alle Aktivitäten unter Ihrem Konto
 
 5. Datenschutz
 Die Verarbeitung personenbezogener Daten erfolgt gemäß der Datenschutzerklärung:
-➡️ https://github.com/DennisWIttek/animalhealth-datenschutz/blob/main/DATENSCHUTZ.md
+➡️ https://github.com/DennisWittek/animalhealth-datenschutz/blob/main/DATENSCHUTZ.md
 Die App nutzt Firebase Authentication und Firestore zur Speicherung Ihrer Daten.
 
 6. Haftungsausschluss
@@ -77,4 +77,4 @@ Bei Verstößen gegen diese Nutzungsbedingungen kann der Zugang gesperrt werden.
 
 10. Kontakt
 Bei Fragen wenden Sie sich an:
-DennisW_Coding@gmx.de
+dw_geraeteverleih_manufaktur@gmx.de
